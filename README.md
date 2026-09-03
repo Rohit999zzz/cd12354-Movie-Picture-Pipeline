@@ -1,5 +1,5 @@
 
-#Deployment Verification
+# Deployment Verification
 Frontend Application
 [http://a2a65d933df654398a243bff4b920f25-1902874742.us-east-1.elb.amazonaws.com](http://aa2a4e6014069420db874eb2009d6830-1410076299.us-east-1.elb.amazonaws.com/)
 The frontend displays the list of movies and allows users to view movie details.
