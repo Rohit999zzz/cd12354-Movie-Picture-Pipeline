@@ -5,7 +5,7 @@ Frontend Application
 The frontend displays the list of movies and allows users to view movie details.
 
 Backend API
-[http://a5e27b41df3324bb3a276c5bcb2eaa58-1825435127.us-east-1.elb.amazonaws.com/movies](http://aa2a4e6014069420db874eb2009d6830-1410076299.us-east-1.elb.amazonaws.com/movies)
+[[http://a5e27b41df3324bb3a276c5bcb2eaa58-1825435127.us-east-1.elb.amazonaws.com/movies](http://aa2a4e6014069420db874eb2009d6830-1410076299.us-east-1.elb.amazonaws.com/movies)](http://aac505e95d5ad4d0ea05f070a8511869-439090988.us-east-1.elb.amazonaws.com/movies)
 The backend API returns the list of movies successfully.
 
 
